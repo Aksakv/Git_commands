@@ -25,4 +25,7 @@ A >> Denoted  added  to stagging area
 
  git log  >>  use to check the records of commit .
  
- git clone [repository link] >>  for clone a repository from github
+ git clone [repository link] >>  for clone a repository from github .
+ 
+ git new branch .
+ 
